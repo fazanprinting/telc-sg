@@ -1,0 +1,3 @@
+<?php
+	// File Untuk delete
+?>
